@@ -23,13 +23,14 @@ https://jsonplaceholder.typicode.com/users
 
 ---
 
-## 📸 Demo Video
-https://YOUR_VIDEO_LINK_HERE
+#Vercel link
+https://user-directory-dashboard-v1.vercel.app/
 
 ---
 
-## 🚀 Live Demo
-https://YOUR_VERCEL_LINK_HERE
+Screen Recorder link
+https://drive.google.com/file/d/1iqjMVz9lgtDFfIRtXIumVma25uG8AsQj/view?usp=sharing
+
 
 ---
 
