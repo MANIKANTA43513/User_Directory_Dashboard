@@ -1,0 +1,79 @@
+body {
+  font-family: Arial;
+  background: #f5f5f5;
+  margin: 0;
+}
+
+/* Container */
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Search */
+.search {
+  width: 100%;
+  padding: 12px;
+  margin: 20px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+.search:focus {
+  border-color: #007bff;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+tr:hover {
+  background: #eef5ff;
+  transition: 0.2s;
+}
+
+/* Button */
+button {
+  padding: 8px 14px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+button:hover {
+  background: #0056b3;
+}
